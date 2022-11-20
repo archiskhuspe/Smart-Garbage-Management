@@ -1,4 +1,4 @@
-# Smart-Dustbin
+# Smart-Garbage-Management
 
 💫 Files
 
