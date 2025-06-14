@@ -1,6 +1,6 @@
 # Smart-Garbage-Management
 
-💫 Files
+Files
 
 1. Arduino Code: Project file
 2. Research Paper: Detailed information of the project
